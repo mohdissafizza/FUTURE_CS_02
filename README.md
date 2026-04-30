@@ -46,9 +46,9 @@ Urgency and threats
 - Requests for sensitive information  
 
 ## Risk Classification
-Safe Email – Low Risk 
-Suspicious Email – Medium Risk 
-Phishing Email – High Risk
+Safe Email – Low Risk  
+Suspicious Email – Medium Risk  
+Phishing Email – High Risk  
 
 ## Prevention Tips
 - Do not click unknown links  
